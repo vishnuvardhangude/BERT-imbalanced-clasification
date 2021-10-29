@@ -1,1 +1,1 @@
-# BERT-imbalanced-clasification
+# Imbalanced data clasification with BERT
